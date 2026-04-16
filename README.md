@@ -1,7 +1,7 @@
 # Triangular Scale Clock
 
-- Download from Printables here: [`Download Link`](https://www.printables.com/@EvokeMadness_492935)
-- Download from Thingiverse here: [`Download Link`](https://www.thingiverse.com/EvokeMadness/designs)
+- Download from Printables here: [`Download Link`](https://www.printables.com/model/1691516-triangular-scale-clock)
+- Download from Thingiverse here: [`Download Link`](https://www.thingiverse.com/thing:7336565)
 
 ## Summary
 
