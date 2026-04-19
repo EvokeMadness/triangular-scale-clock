@@ -63,4 +63,4 @@ A clock in the profile of a triangular drafting scale!
 
 ![](assets/drawing.png)
 
-![](assets/preview-drafting-triangular-scale.png)
+![](assets/preview-drafting-scale.png)
